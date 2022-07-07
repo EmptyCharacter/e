@@ -1,12 +1,19 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import Stuff from '../components/Stuff'
-import styles from '../styles/Home.module.css'
+
+import Footer from '../components/Footer'
+import Nav from '../components/Nav'
+import Hero from '../components/Hero'
+import Content from '../components/Content'
 
 export default function Home() {
   return (
 
-    <Stuff />
+    <div className='bg-gray-800'>
+      <Nav />
+      <Hero />
+      <Content />
+      <Footer />
+    </div>
+
 
   )
 }
