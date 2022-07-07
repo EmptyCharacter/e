@@ -15,7 +15,7 @@ function Hero() {
 
                         <div>
                             <p className="mt-4 text-gray-500 dark:text-gray-400 lg:max-w-md">
-                                Hi I'm Josh, software developer <a className="font-bold text-blue-600 dark:text-blue-400" href="#">Freelance</a>
+                                Hi I am Josh, software developer <a className="font-bold text-blue-600 dark:text-blue-400" href="#">Freelance</a>
                                 <br />
                                 <span className='text-lg text-amber-700 font-bold'>This is my cat <span className='text-white'>ᓚᘏᗢ</span></span>
                             </p>
