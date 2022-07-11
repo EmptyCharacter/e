@@ -7,7 +7,9 @@ import Content from '../components/Content'
 export default function Home() {
   return (
 
+
     <div className='bg-gray-800'>
+
       <Nav />
       <Hero />
       <Content />
